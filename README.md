@@ -22,13 +22,29 @@ The goal is to create a standalone, open-source device that helps regulate the h
 
 /circLight
 ├── LICENSE # Open-source license
+
+
 ├── README.md # Project overview 
+
+
 ├── docs/ # Documentation, diagrams, research notes
+
+
 ├── examples/ # Example code, demo configurations
+
+
 ├── firmware/ # Embedded code for microcontrollers
+
+
 ├── hardware/ # PCB design files, schematics
+
+
 ├── software/ # Control software, scheduling, UI
+
+
 ├── src/ # Core libraries and source files
+
+
 └── test/ # Unit tests, integration tests
 
 ___________________________________________________________
